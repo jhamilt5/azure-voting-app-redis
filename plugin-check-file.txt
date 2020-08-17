@@ -1,1 +1,2 @@
 This file exists to see if my Git plugin works correctly.
+I'm adding a new line!
